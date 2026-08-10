@@ -38,7 +38,7 @@ let inputPassword ='123456';
 let username = "sanjay";
 let password = "123456";
 
-if ( inputusername === username && inputPassword === password ) {
+if ( inputUsername === username && inputPassword === password ) {
   alert ("logged in successfully");
 } else {
   alert ("invalid username or password");
