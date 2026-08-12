@@ -9,7 +9,7 @@ for (let b=10; b>=1; b = b - 1){
 for (let c=2; c<=20; c+= 2){
   alert (c);
 }
-*/
+he*/
 const clothes = ["shirt", "jeans", "shoes", "jacket"];
 
  
