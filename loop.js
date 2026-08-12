@@ -14,11 +14,11 @@ const clothes = ["shirt", "jeans", "shoes", "jacket"];
 
  
 for (clo = 0; clo<clothes.length; clo ++){
-  alert (clo[0]);
+  console.log (clo[0]);
 }
 
 const users = ["Alex", "Maya", "Sanjay", "John", "Lina"];
 
 for ( u=1; u<users.length; u++){
-  alert (`users: ${u[0]}`);
+  console.log (`users: ${u[0]}`);
 }
