@@ -13,12 +13,12 @@ for (let c=2; c<=20; c+= 2){
 const clothes = ["shirt", "jeans", "shoes", "jacket"];
 
  
-for (clo = 0 clo<clothes.length; clo ++){
-  console.log (clo);
+for (clo = 0; clo<clothes.length; clo ++){
+  alert (clo[0]);
 }
 
 const users = ["Alex", "Maya", "Sanjay", "John", "Lina"];
 
 for ( u=1; u<users.length; u++){
-  console.log (`users: ${u}`);
+  alert (`users: ${u[0]}`);
 }
