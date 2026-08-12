@@ -2,7 +2,7 @@ for (let i=1; i<=10; i++){
   alert (i);
 }
 
-for (let b=10; b<1; b= b-1){
+for (let b=10; b<1; b = b - 1){
   alert (b);
 }
 
