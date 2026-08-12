@@ -15,6 +15,6 @@ for (let c=2; c<=20; c+= 2){
 const clothes = ["shirt", "jeans", "shoes", "jacket"];
 
  
-for (clo = clothes[0]; clo<= clothes[3]; clo ++){
+for (clo = 0 clo<clothes.length; clo ++){
   console.log(clo);
 }
