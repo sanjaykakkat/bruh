@@ -1,6 +1,5 @@
 function age(currentYear, birthYear){
-   let age1 = currentYear - birthYear;
-   return age1;
-}
+    return currentYear - birthYear;
+   }
 
 alert (`your age is ${age(2026, 2008)}`);
