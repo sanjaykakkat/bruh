@@ -1,7 +1,4 @@
-const currentYear = 2026;
-let birthYear = 2008;
-
-function age(currentYear, birthYear){
+function age(2026, 2008){
    return currentYear - birthYear;
 }
 
