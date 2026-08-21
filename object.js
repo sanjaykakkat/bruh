@@ -6,9 +6,7 @@ const book = {
 
 
 function showBook(bookInfo) {
-    console.log(`Title: ${book.title}`);
-    console.log(`Title: ${book.author}`);
-    console.log(`Title: ${book.year}`);
+    console.log(`Title: ${book.title} Author: ${book.author} Year: ${book.year}`);
     return bookInfo;
 }
 
