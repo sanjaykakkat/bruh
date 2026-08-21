@@ -10,7 +10,7 @@ function showBook(bookInfo) {
     console.log("Author: ${book.author}");
     console.log("Year: ${book.year}");
 
-    return book;
+    return bookInfo;
 }
 
 console.log(showBook);
