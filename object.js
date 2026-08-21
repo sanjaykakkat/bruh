@@ -4,4 +4,13 @@ const book = {
   year: "Too lazy to look it up, go google it"
 };
 
-console.log(book.title);
+
+function showBook(bookInfo) {
+    console.log("Title: ${book.title}");
+    console.log("Author: ${book.author}");
+    console.log("Year: ${book.year}");
+
+    return book;
+}
+
+console.log(showBook);
